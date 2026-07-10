@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce HSN Code Manager
  * Description: Adds HSN Code field to WooCommerce products with export/import, order meta, and admin column display.
- * Author: Lalith Raj Reddi & ChatGPT
+ * Author: Lalith Raj Reddi
  * Version: 1.1
  */
 

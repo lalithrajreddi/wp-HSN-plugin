@@ -30,4 +30,4 @@ Once activated:
 
 ## Authors
 
-- Lalith Raj Reddi & ChatGPT
+- Lalith Raj Reddi
